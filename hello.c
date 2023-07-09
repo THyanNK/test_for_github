@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-    puts("hello");
+    puts("123");
     return 0;
 }
